@@ -8,6 +8,8 @@ Aplicație educațională în limba română, cu design „Atlas modern”.
 - Explorarea a 7 continente și 197 de țări/state, cu steaguri și capitale.
 - Quizuri pentru capitale și continente, cu selecție de țări și feedback.
 - Istoric local al rezultatelor, păstrat în browserul dispozitivului.
+- Mod luminos / întunecat, cu preferință salvată.
+- Calendar de prezență, notițe pe zile și statistici de consecvență.
 - Conținut și imagini găzduite în repository, fără servicii plătite de backend.
 
 ## Dezvoltare

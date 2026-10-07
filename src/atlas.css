@@ -1259,3 +1259,541 @@
 .quiz-history strong {
   color: #41623a;
 }
+.atlas-header-tools {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.atlas-header .theme-toggle {
+  border-radius: 50%;
+  width: 41px;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  color: var(--green);
+}
+.attendance-main {
+  max-width: 1000px;
+}
+.attendance-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-bottom: 25px;
+}
+.attendance-stats > div {
+  background: #eeefe6;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  column-gap: 12px;
+  align-items: center;
+  color: #59734e;
+}
+.attendance-stats strong {
+  font-family: "Libre Baskerville", serif;
+  font-size: 27px;
+  color: var(--ink);
+}
+.attendance-stats span {
+  grid-column: 2;
+  font-size: 11px;
+  margin-top: 6px;
+}
+.attendance-layout {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 23px;
+  align-items: start;
+}
+.attendance-calendar {
+  padding: 25px;
+}
+.calendar-month {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+.calendar-month h2 {
+  font-size: 20px;
+  letter-spacing: -0.6px;
+  text-transform: capitalize;
+}
+.calendar-month button {
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  color: #607856;
+}
+.calendar-weekdays,
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 7px;
+}
+.calendar-weekdays span {
+  text-align: center;
+  font-size: 11px;
+  color: #7f8c76;
+  padding-bottom: 12px;
+}
+.calendar-grid button {
+  aspect-ratio: 1;
+  position: relative;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  color: var(--ink);
+  background: var(--paper);
+}
+.calendar-grid button svg {
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+}
+.calendar-grid button:hover:not(:disabled) {
+  border-color: #49744c;
+  background: #eef2e5;
+}
+.calendar-grid button.today {
+  border-color: #587948;
+  border-width: 2px;
+}
+.calendar-grid button.marked {
+  background: #ddebd3;
+  color: #2b5631;
+  border-color: #bdd2af;
+}
+.calendar-grid button.selected {
+  outline: 2px solid #366642;
+  outline-offset: 2px;
+}
+.calendar-grid button:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+.calendar-legend {
+  display: flex;
+  gap: 22px;
+  font-size: 10px;
+  margin: 23px 0;
+  color: #78846e;
+}
+.calendar-legend span {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+}
+.calendar-legend i {
+  width: 11px;
+  height: 11px;
+  border-radius: 3px;
+}
+.legend-done {
+  background: #ddebd3;
+  border: 1px solid #bdd2af;
+}
+.legend-today {
+  border: 2px solid #587948;
+}
+.calendar-today {
+  display: block;
+  margin: 0 auto;
+  padding: 9px 15px;
+  font-size: 11px;
+}
+.attendance-detail h2 {
+  font-size: 26px;
+  letter-spacing: -0.8px;
+  margin: 13px 0 18px;
+}
+.attendance-status {
+  font-size: 13px;
+  color: #72826a;
+  line-height: 1.8;
+  margin-bottom: 22px;
+}
+.day-complete {
+  background: #e6eedb;
+  color: #41623a;
+  border-color: #bfceb2;
+}
+.achievement-note {
+  display: block;
+  margin-top: 25px;
+  font-size: 12px;
+  color: #5d7651;
+  font-weight: 600;
+}
+.achievement-note > span {
+  font-weight: 400;
+  color: #8b967e;
+  font-size: 10px;
+}
+.achievement-note textarea {
+  display: block;
+  resize: vertical;
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.8;
+  padding: 13px;
+  margin: 11px 0 8px;
+}
+.achievement-note small {
+  font-size: 9px;
+  color: #8b967e;
+  font-weight: 400;
+}
+.attendance-tip {
+  display: flex;
+  gap: 11px;
+  padding-top: 23px;
+  border-top: 1px solid var(--line);
+  margin-top: 26px;
+  color: #7a8a6e;
+}
+.attendance-tip svg {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.attendance-tip p {
+  font-size: 11px;
+  line-height: 1.9;
+}
+.attendance-detail .text-link {
+  margin-top: 18px;
+}
+.storage-error {
+  color: #ad583e;
+  font-size: 12px;
+  line-height: 1.8;
+  margin-top: 20px;
+}
+.dark .atlas-app {
+  --ink: #e8eee3;
+  --green: #315f48;
+  --paper: #17221d;
+  --line: #3b4b3f;
+  --muted-atlas: #b6c2ad;
+  color-scheme: dark;
+}
+.dark .atlas-header {
+  background: #1c2922;
+}
+.dark .atlas-brand,
+.dark .atlas-header .theme-toggle {
+  color: #c4d9b7;
+}
+.dark .atlas-hero {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(16, 28, 23, 0.8),
+      rgba(16, 28, 23, 0.88) 45%,
+      rgba(16, 28, 23, 0.75)
+    ),
+    url("/atlas-landscape.png");
+}
+.dark .atlas-hero h1 {
+  color: #edf0df;
+}
+.dark .atlas-hero p {
+  color: #c1cdb9;
+}
+.dark .atlas-app .eyebrow,
+.dark .subject-kicker {
+  color: #a8c092;
+}
+.dark .atlas-header nav a {
+  color: #b9c8ae;
+}
+.dark .atlas-header nav a.active,
+.dark .atlas-header nav a:hover {
+  background: #304337;
+  color: #e3ecd9;
+}
+.dark .subject-card,
+.dark .atlas-panel,
+.dark .country-row,
+.dark .search-box,
+.dark .continent-tabs button,
+.dark .setup-fields select,
+.dark .answer-options button {
+  background: #202d25;
+  color: var(--ink);
+}
+.dark .continent-tabs button.active,
+.dark .atlas-button {
+  background: #315f48;
+  border-color: #497a58;
+  color: #f4f7ed;
+}
+.dark .atlas-button:hover {
+  background: #3a7154;
+}
+.dark .atlas-app .subject-body p,
+.dark .section-intro > p,
+.dark .continent-heading p,
+.dark .country-row p,
+.dark .country-row small,
+.dark .quiz-modes small,
+.dark .results-panel > p,
+.dark .attendance-status,
+.dark .data-note,
+.dark .home-features,
+.dark .atlas-footer,
+.dark .calendar-weekdays span,
+.dark .calendar-legend {
+  color: #b6c2ad;
+}
+.dark .subject-art.geo-art {
+  background: radial-gradient(circle at 30% 20%, #354739, #253629);
+}
+.dark .math-art {
+  background: #342f26;
+}
+.dark .art-coordinate {
+  color: #b5baa2;
+}
+.dark .continent-panel,
+.dark .attendance-stats > div {
+  background: #263429;
+}
+.dark .continent-fact,
+.dark .continent-count,
+.dark .attendance-stats > div,
+.dark .calendar-month button,
+.dark .achievement-note,
+.dark .text-link {
+  color: #bdd0ae;
+}
+.dark .continent-panel > .atlas-map {
+  filter: brightness(0.75);
+  border-color: var(--line);
+}
+.dark .mode-tabs,
+.dark .quiz-progress {
+  background: #26352b;
+  border-color: var(--line);
+}
+.dark .mode-tabs a {
+  color: #aabd9e;
+}
+.dark .mode-tabs a.active {
+  background: #3c4e3d;
+  color: #ecf3e5;
+}
+.dark .count-badge,
+.dark .results-icon {
+  background: #344836;
+  color: #cedfbe;
+}
+.dark .search-box {
+  color: #aabd9e;
+}
+.dark .quiz-modes button {
+  border-color: var(--line);
+  color: #bbcfad;
+}
+.dark .quiz-modes button.active {
+  background: #304733;
+  border-color: #769664;
+}
+.dark .quiz-modes strong,
+.dark .setup-fields label {
+  color: var(--ink);
+}
+.dark .country-picker summary,
+.dark .picker-actions button,
+.dark .setup-summary,
+.dark .quiz-hint,
+.dark .quiz-progress-top,
+.dark .answer-review summary,
+.dark .quiz-history summary {
+  color: #b7caa8;
+}
+.dark .country-picker summary span,
+.dark .quit-button,
+.dark .answer-review small,
+.dark .quiz-history small,
+.dark .quiz-history > p {
+  color: #a8b79a;
+}
+.dark .picker-list input {
+  accent-color: #8dad70;
+}
+.dark .answer-options button.selected {
+  background: #345032;
+  border-color: #9cbe82;
+  box-shadow: inset 0 0 0 1px #9cbe82;
+}
+.dark .answer-options button:hover:not(:disabled) {
+  background: #2b402d;
+  border-color: #87a36f;
+}
+.dark .answer-letter {
+  border-color: #536549;
+  color: #c1d2b2;
+}
+.dark .answer-options button.correct {
+  background: #334e2b;
+  border-color: #88aa68;
+  color: #daedc8;
+}
+.dark .answer-options button.wrong {
+  background: #4c3027;
+  border-color: #b7795b;
+  color: #f1c3aa;
+}
+.dark .correct-text,
+.dark .quiz-history strong {
+  color: #b9d99d;
+}
+.dark .wrong-text {
+  color: #ebad8e;
+}
+.dark .answer-feedback,
+.dark .answer-review,
+.dark .answer-review > div,
+.dark .quiz-history > div {
+  border-color: var(--line);
+}
+.dark .answer-feedback p {
+  color: #bcc9b0;
+}
+.dark .score-number {
+  color: #bad49f;
+}
+.dark .secondary-button {
+  color: #c3d4b3;
+}
+.dark .calendar-grid button.marked,
+.dark .calendar-grid button:hover:not(:disabled) {
+  background: #354f32;
+  border-color: #6f925d;
+  color: #e1eed2;
+}
+.dark .calendar-grid button.today {
+  border-color: #c2d6a4;
+}
+.dark .calendar-grid button.selected {
+  outline-color: #a6c28b;
+}
+.dark .legend-done {
+  background: #354f32;
+  border-color: #6f925d;
+}
+.dark .legend-today {
+  border-color: #c2d6a4;
+}
+.dark .atlas-app .day-complete {
+  background: #354f32;
+  color: #e1eed2;
+}
+.dark .attendance-tip,
+.dark .achievement-note small,
+.dark .achievement-note > span {
+  color: #aebf9e;
+}
+.dark .storage-error {
+  color: #e3ae92;
+}
+.dark .atlas-app button:focus-visible,
+.dark .atlas-app a:focus-visible,
+.dark .atlas-app input:focus-visible,
+.dark .atlas-app textarea:focus-visible,
+.dark .atlas-app select:focus-visible {
+  outline-color: #b5ce99;
+}
+@media (max-width: 950px) {
+  .atlas-header nav {
+    gap: 3px;
+  }
+  .atlas-header nav a {
+    padding: 10px 11px;
+  }
+  .atlas-header-tools {
+    gap: 8px;
+  }
+}
+@media (max-width: 620px) {
+  .atlas-header {
+    position: relative;
+  }
+  .atlas-header-tools {
+    width: 100%;
+    justify-content: center;
+  }
+  .atlas-header .theme-toggle {
+    position: absolute;
+    right: 18px;
+    top: 20px;
+    width: 35px;
+    height: 35px;
+    padding: 8px;
+  }
+  .atlas-header nav a {
+    padding: 9px 10px;
+    font-size: 11px;
+  }
+  .attendance-stats {
+    gap: 8px;
+  }
+  .attendance-stats > div {
+    padding: 13px 9px;
+    grid-template-columns: 1fr;
+    text-align: center;
+    justify-items: center;
+    row-gap: 7px;
+  }
+  .attendance-stats span {
+    grid-column: 1;
+    font-size: 9px;
+    line-height: 1.5;
+    min-height: 27px;
+  }
+  .attendance-stats strong {
+    font-size: 23px;
+  }
+  .attendance-stats svg {
+    width: 18px;
+  }
+  .attendance-layout {
+    grid-template-columns: 1fr;
+  }
+  .attendance-calendar {
+    padding: 22px 16px;
+  }
+  .calendar-month h2 {
+    font-size: 19px;
+  }
+  .calendar-grid,
+  .calendar-weekdays {
+    gap: 6px;
+  }
+  .calendar-grid button {
+    font-size: 12px;
+  }
+  .calendar-grid button svg {
+    width: 10px;
+    bottom: 2px;
+    right: 2px;
+  }
+  .attendance-detail {
+    padding: 24px;
+  }
+}

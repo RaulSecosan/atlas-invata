@@ -17,7 +17,7 @@ Workflow-ul configurează automat prefixul URL al repository-ului. Navigarea fol
 - Continente: `src/data/continents.json`.
 - Imagini: `public/flags/` și `public/atlas-landscape.png`.
 - Export relațional de backup: `database/atlas.sqlite`, `database/content.sql`.
-- Progres matematică și geografie: localStorage în browser, fără conturi și fără sincronizare între dispozitive.
+- Progres matematică și geografie, calendar de prezență și preferință de temă: localStorage în browser, fără conturi și fără sincronizare între dispozitive.
 
 După modificarea conținutului, regenerează exportul cu `python3 scripts/export-content-database.py`, apoi încarcă schimbările. Baza SQLite nu rulează pe GitHub Pages; aplicația folosește catalogul JSON compilat.
 
