@@ -1,0 +1,51 @@
+[
+  {
+    "id": "europe",
+    "name": "Europa",
+    "short": "EU",
+    "description": "De la țărmurile Mediteranei până la fiordurile nordului, Europa adună o mare diversitate de limbi, culturi și peisaje.",
+    "fact": "Munții Urali reprezintă o parte a limitei convenționale dintre Europa și Asia."
+  },
+  {
+    "id": "asia",
+    "name": "Asia",
+    "short": "ASI",
+    "description": "Cel mai mare continent al lumii, cuprinzând deșerturi, păduri tropicale și cele mai înalte vârfuri ale planetei.",
+    "fact": "Everest, cel mai înalt vârf deasupra nivelului mării, se află în Asia."
+  },
+  {
+    "id": "africa",
+    "name": "Africa",
+    "short": "AF",
+    "description": "Un continent al contrastelor: Sahara, savane întinse, păduri ecuatoriale și orașe pline de viață.",
+    "fact": "Ecuatorul traversează Africa, care se întinde în ambele emisfere."
+  },
+  {
+    "id": "north-america",
+    "name": "America de Nord",
+    "short": "AN",
+    "description": "Din regiunile arctice până în America Centrală și Caraibe, descoperă un continent cu peisaje spectaculoase.",
+    "fact": "În modelul cu șapte continente, America Centrală și Caraibele fac parte din America de Nord."
+  },
+  {
+    "id": "south-america",
+    "name": "America de Sud",
+    "short": "AMS",
+    "description": "Descoperă pădurea amazoniană, lanțul Munților Anzi și țări cu o bogată moștenire culturală.",
+    "fact": "Anzii se întind de-a lungul marginii vestice a continentului."
+  },
+  {
+    "id": "oceania",
+    "name": "Oceania",
+    "short": "OC",
+    "description": "Australia, Noua Zeelandă și statele insulare ale Pacificului alcătuiesc această regiune a lumii.",
+    "fact": "Folosim Oceania pentru a include Australia și statele insulare din Pacific."
+  },
+  {
+    "id": "antarctica",
+    "name": "Antarctica",
+    "short": "AT",
+    "description": "Continentul înghețat de la Polul Sud este un loc dedicat cercetării, cu peisaje și ecosisteme unice.",
+    "fact": "Antarctica nu are țări suverane și nici capitale. Aici se află stații de cercetare."
+  }
+]

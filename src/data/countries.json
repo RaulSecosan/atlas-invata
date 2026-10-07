@@ -1,0 +1,1974 @@
+[
+  {
+    "code": "AF",
+    "name": "Afganistan",
+    "capital": [
+      "Kabul"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 652230
+  },
+  {
+    "code": "ZA",
+    "name": "Africa de Sud",
+    "capital": [
+      "Pretoria",
+      "Cape Town",
+      "Bloemfontein"
+    ],
+    "continent": "africa",
+    "note": "Pretoria: executivă; Cape Town: legislativă; Bloemfontein: judiciară.",
+    "area": 1221037
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "capital": [
+      "Tirana"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 28748
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "capital": [
+      "Alger"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 2381741
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 468
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "capital": [
+      "Luanda"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1246700
+  },
+  {
+    "code": "AG",
+    "name": "Antigua și Barbuda",
+    "capital": [
+      "Saint John's"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 442
+  },
+  {
+    "code": "SA",
+    "name": "Arabia Saudită",
+    "capital": [
+      "Riyadh"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 2149690
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "capital": [
+      "Buenos Aires"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 2780400
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "capital": [
+      "Erevan"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 29743
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "capital": [
+      "Canberra"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 7692024
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "capital": [
+      "Viena"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 83871
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaidjan",
+    "capital": [
+      "Baku"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 86600
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "capital": [
+      "Nassau"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 13943
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "capital": [
+      "Manama"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 765
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "capital": [
+      "Dhaka"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 147570
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "capital": [
+      "Bridgetown"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 430
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "capital": [
+      "Minsk"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 207600
+  },
+  {
+    "code": "BE",
+    "name": "Belgia",
+    "capital": [
+      "Bruxelles"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 30528
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "capital": [
+      "Belmopan"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 22966
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "capital": [
+      "Porto-Novo"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 112622
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "capital": [
+      "Thimphu"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 38394
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "capital": [
+      "Sucre",
+      "La Paz"
+    ],
+    "continent": "south-america",
+    "note": "Sucre este capitala constituțională; La Paz este sediul guvernului.",
+    "area": 1098581
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia și Herțegovina",
+    "capital": [
+      "Sarajevo"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 51209
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "capital": [
+      "Gaborone"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 582000
+  },
+  {
+    "code": "BR",
+    "name": "Brazilia",
+    "capital": [
+      "Brasília"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 8515767
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 5765
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "capital": [
+      "Sofia"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 110879
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "capital": [
+      "Ouagadougou"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 272967
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "capital": [
+      "Gitega"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 27834
+  },
+  {
+    "code": "KH",
+    "name": "Cambodgia",
+    "capital": [
+      "Phnom Penh"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 181035
+  },
+  {
+    "code": "CM",
+    "name": "Camerun",
+    "capital": [
+      "Yaoundé"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 475442
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "capital": [
+      "Ottawa"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 9984670
+  },
+  {
+    "code": "CV",
+    "name": "Capul Verde",
+    "capital": [
+      "Praia"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 4033
+  },
+  {
+    "code": "CZ",
+    "name": "Cehia",
+    "capital": [
+      "Praga"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 78865
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "capital": [
+      "Santiago"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 756102
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "capital": [
+      "Beijing"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 9706961
+  },
+  {
+    "code": "TD",
+    "name": "Ciad",
+    "capital": [
+      "N'Djamena"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1284000
+  },
+  {
+    "code": "CY",
+    "name": "Cipru",
+    "capital": [
+      "Nicosia"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 9251
+  },
+  {
+    "code": "CI",
+    "name": "Coasta de Fildeș",
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 322463
+  },
+  {
+    "code": "CO",
+    "name": "Columbia",
+    "capital": [
+      "Bogotá"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 1141748
+  },
+  {
+    "code": "KM",
+    "name": "Comore",
+    "capital": [
+      "Moroni"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1862
+  },
+  {
+    "code": "KP",
+    "name": "Coreea de Nord",
+    "capital": [
+      "Phenian"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 120538
+  },
+  {
+    "code": "KR",
+    "name": "Coreea de Sud",
+    "capital": [
+      "Seul"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 100210
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "capital": [
+      "San José"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 51100
+  },
+  {
+    "code": "HR",
+    "name": "Croația",
+    "capital": [
+      "Zagreb"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 56594
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "capital": [
+      "Havana"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 109884
+  },
+  {
+    "code": "DK",
+    "name": "Danemarca",
+    "capital": [
+      "Copenhaga"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 43094
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "capital": [
+      "Djibouti"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 23200
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "capital": [
+      "Roseau"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 751
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "capital": [
+      "Quito"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 276841
+  },
+  {
+    "code": "EG",
+    "name": "Egipt",
+    "capital": [
+      "Cairo"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1002450
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "capital": [
+      "San Salvador"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 21041
+  },
+  {
+    "code": "CH",
+    "name": "Elveția",
+    "capital": [
+      "Berna"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 41284
+  },
+  {
+    "code": "AE",
+    "name": "Emiratele Arabe Unite",
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 83600
+  },
+  {
+    "code": "ER",
+    "name": "Eritreea",
+    "capital": [
+      "Asmara"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 117600
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "capital": [
+      "Tallinn"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 45227
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "capital": [
+      "Mbabane",
+      "Lobamba"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 17364
+  },
+  {
+    "code": "ET",
+    "name": "Etiopia",
+    "capital": [
+      "Addis Ababa"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1104300
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "capital": [
+      "Suva"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 18272
+  },
+  {
+    "code": "PH",
+    "name": "Filipine",
+    "capital": [
+      "Manila"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 342353
+  },
+  {
+    "code": "FI",
+    "name": "Finlanda",
+    "capital": [
+      "Helsinki"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 338424
+  },
+  {
+    "code": "FR",
+    "name": "Franța",
+    "capital": [
+      "Paris"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 551695
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "capital": [
+      "Libreville"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 267668
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "capital": [
+      "Banjul"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 10689
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "capital": [
+      "Tbilisi"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 69700
+  },
+  {
+    "code": "DE",
+    "name": "Germania",
+    "capital": [
+      "Berlin"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 357114
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "capital": [
+      "Accra"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 238533
+  },
+  {
+    "code": "GR",
+    "name": "Grecia",
+    "capital": [
+      "Atena"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 131990
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "capital": [
+      "St. George's"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 344
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "capital": [
+      "Ciudad de Guatemala"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 108889
+  },
+  {
+    "code": "GN",
+    "name": "Guineea",
+    "capital": [
+      "Conakry"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 245857
+  },
+  {
+    "code": "GQ",
+    "name": "Guineea Ecuatorială",
+    "capital": [
+      "Ciudad de la Paz"
+    ],
+    "continent": "africa",
+    "note": "Ciudad de la Paz a fost declarată capitală la 2 ianuarie 2026, înlocuind Malabo.",
+    "area": 28051
+  },
+  {
+    "code": "GW",
+    "name": "Guineea-Bissau",
+    "capital": [
+      "Bissau"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 36125
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "capital": [
+      "Georgetown"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 214969
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "capital": [
+      "Port-au-Prince"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 27750
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "capital": [
+      "Tegucigalpa"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 112492
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "capital": [
+      "New Delhi"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 3287590
+  },
+  {
+    "code": "ID",
+    "name": "Indonezia",
+    "capital": [
+      "Jakarta"
+    ],
+    "continent": "asia",
+    "note": "Transferul instituțiilor către Nusantara se desfășoară în etape. Jakarta rămâne capitală până la decretul de transfer.",
+    "area": 1904569
+  },
+  {
+    "code": "MH",
+    "name": "Insulele Marshall",
+    "capital": [
+      "Majuro"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 181
+  },
+  {
+    "code": "SB",
+    "name": "Insulele Solomon",
+    "capital": [
+      "Honiara"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 28896
+  },
+  {
+    "code": "JO",
+    "name": "Iordania",
+    "capital": [
+      "Amman"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 89342
+  },
+  {
+    "code": "IQ",
+    "name": "Irak",
+    "capital": [
+      "Bagdad"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 438317
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "capital": [
+      "Teheran"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 1648195
+  },
+  {
+    "code": "IE",
+    "name": "Irlanda",
+    "capital": [
+      "Dublin"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 70273
+  },
+  {
+    "code": "IS",
+    "name": "Islanda",
+    "capital": [
+      "Reykjavik"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 103000
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "capital": [
+      "Ierusalim"
+    ],
+    "continent": "asia",
+    "note": "Ierusalimul este declarat capitală de Israel; statutul său internațional este disputat.",
+    "area": 20770
+  },
+  {
+    "code": "IT",
+    "name": "Italia",
+    "capital": [
+      "Roma"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 301336
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "capital": [
+      "Kingston"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 10991
+  },
+  {
+    "code": "JP",
+    "name": "Japonia",
+    "capital": [
+      "Tokyo"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 377930
+  },
+  {
+    "code": "KZ",
+    "name": "Kazahstan",
+    "capital": [
+      "Astana"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 2724900
+  },
+  {
+    "code": "KG",
+    "name": "Kârgâzstan",
+    "capital": [
+      "Bishkek"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 199951
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "capital": [
+      "Nairobi"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 580367
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "capital": [
+      "South Tarawa"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 811
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "capital": [
+      "Pristina"
+    ],
+    "continent": "europe",
+    "note": "Stat cu recunoaștere internațională parțială.",
+    "area": 10908
+  },
+  {
+    "code": "KW",
+    "name": "Kuweit",
+    "capital": [
+      "Kuweit"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 17818
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "capital": [
+      "Vientiane"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 236800
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "capital": [
+      "Maseru"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 30355
+  },
+  {
+    "code": "LV",
+    "name": "Letonia",
+    "capital": [
+      "Riga"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 64559
+  },
+  {
+    "code": "LB",
+    "name": "Liban",
+    "capital": [
+      "Beirut"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 10452
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "capital": [
+      "Monrovia"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 111369
+  },
+  {
+    "code": "LY",
+    "name": "Libia",
+    "capital": [
+      "Tripoli"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1759540
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "capital": [
+      "Vaduz"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 160
+  },
+  {
+    "code": "LT",
+    "name": "Lituania",
+    "capital": [
+      "Vilnius"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 65300
+  },
+  {
+    "code": "LU",
+    "name": "Luxemburg",
+    "capital": [
+      "Luxemburg"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 2586
+  },
+  {
+    "code": "MK",
+    "name": "Macedonia de Nord",
+    "capital": [
+      "Skopje"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 25713
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "capital": [
+      "Antananarivo"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 587041
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "capital": [
+      "Lilongwe"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 118484
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 330803
+  },
+  {
+    "code": "MV",
+    "name": "Maldive",
+    "capital": [
+      "Malé"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 300
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "capital": [
+      "Bamako"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1240192
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "capital": [
+      "Valletta"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 316
+  },
+  {
+    "code": "MA",
+    "name": "Maroc",
+    "capital": [
+      "Rabat"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 446550
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "capital": [
+      "Nouakchott"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1030700
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "capital": [
+      "Port Louis"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 2040
+  },
+  {
+    "code": "MX",
+    "name": "Mexic",
+    "capital": [
+      "Ciudad de México"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 1964375
+  },
+  {
+    "code": "FM",
+    "name": "Micronezia",
+    "capital": [
+      "Palikir"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 702
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "capital": [
+      "Monaco"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 2.02
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "capital": [
+      "Ulan Bator"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 1564110
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambic",
+    "capital": [
+      "Maputo"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 801590
+  },
+  {
+    "code": "ME",
+    "name": "Muntenegru",
+    "capital": [
+      "Podgorica"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 13812
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar (Birmania)",
+    "capital": [
+      "Naypyidaw"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 676578
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "capital": [
+      "Windhoek"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 825615
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "capital": [],
+    "continent": "oceania",
+    "note": "Nu are o capitală oficială. Instituțiile guvernamentale se află în districtul Yaren.",
+    "area": 21
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "capital": [
+      "Kathmandu"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 147181
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "capital": [
+      "Managua"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 130373
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "capital": [
+      "Niamey"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1267000
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "capital": [
+      "Abuja"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 923768
+  },
+  {
+    "code": "NO",
+    "name": "Norvegia",
+    "capital": [
+      "Oslo"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 323802
+  },
+  {
+    "code": "NZ",
+    "name": "Noua Zeelandă",
+    "capital": [
+      "Wellington"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 270467
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "capital": [
+      "Muscat"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 309500
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "capital": [
+      "Islamabad"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 881912
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "capital": [
+      "Ngerulmud"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 459
+  },
+  {
+    "code": "PS",
+    "name": "Palestina",
+    "capital": [
+      "Ierusalimul de Est"
+    ],
+    "continent": "asia",
+    "note": "Ierusalimul de Est este capitala revendicată; administrația se află la Ramallah. Statutul orașului este disputat.",
+    "area": 6220
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "capital": [
+      "Ciudad de Panamá"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 75417
+  },
+  {
+    "code": "PG",
+    "name": "Papua-Noua Guinee",
+    "capital": [
+      "Port Moresby"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 462840
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "capital": [
+      "Asunción"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 406752
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "capital": [
+      "Lima"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 1285216
+  },
+  {
+    "code": "PL",
+    "name": "Polonia",
+    "capital": [
+      "Varșovia"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 312679
+  },
+  {
+    "code": "PT",
+    "name": "Portugalia",
+    "capital": [
+      "Lisabona"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 92090
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "capital": [
+      "Doha"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 11586
+  },
+  {
+    "code": "GB",
+    "name": "Regatul Unit",
+    "capital": [
+      "Londra"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 242900
+  },
+  {
+    "code": "CF",
+    "name": "Republica Centrafricană",
+    "capital": [
+      "Bangui"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 622984
+  },
+  {
+    "code": "CG",
+    "name": "Republica Congo",
+    "capital": [
+      "Brazzaville"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 342000
+  },
+  {
+    "code": "CD",
+    "name": "Republica Democrată Congo",
+    "capital": [
+      "Kinshasa"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 2344858
+  },
+  {
+    "code": "DO",
+    "name": "Republica Dominicană",
+    "capital": [
+      "Santo Domingo"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 48671
+  },
+  {
+    "code": "MD",
+    "name": "Republica Moldova",
+    "capital": [
+      "Chișinău"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 33846
+  },
+  {
+    "code": "RO",
+    "name": "România",
+    "capital": [
+      "București"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 238391
+  },
+  {
+    "code": "RU",
+    "name": "Rusia",
+    "capital": [
+      "Moscova"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 17098242
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "capital": [
+      "Kigali"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 26338
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts și Nevis",
+    "capital": [
+      "Basseterre"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 261
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent și Grenadinele",
+    "capital": [
+      "Kingstown"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 389
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "capital": [
+      "Apia"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 2842
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "capital": [
+      "San Marino"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 61
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé și Príncipe",
+    "capital": [
+      "São Tomé"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 964
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "capital": [
+      "Dakar"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 196722
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "capital": [
+      "Belgrad"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 88361
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "capital": [
+      "Victoria"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 452
+  },
+  {
+    "code": "LC",
+    "name": "Sfânta Lucia",
+    "capital": [
+      "Castries"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 616
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "capital": [
+      "Freetown"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 71740
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "capital": [
+      "Singapore"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 710
+  },
+  {
+    "code": "SY",
+    "name": "Siria",
+    "capital": [
+      "Damasc"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 185180
+  },
+  {
+    "code": "SK",
+    "name": "Slovacia",
+    "capital": [
+      "Bratislava"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 49037
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "capital": [
+      "Ljubljana"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 20273
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "capital": [
+      "Mogadishu"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 637657
+  },
+  {
+    "code": "ES",
+    "name": "Spania",
+    "capital": [
+      "Madrid"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 505992
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "capital": [
+      "Sri Jayawardenepura Kotte"
+    ],
+    "continent": "asia",
+    "note": "Sri Jayawardenepura Kotte este capitala legislativă; Colombo găzduiește funcții executive.",
+    "area": 65610
+  },
+  {
+    "code": "US",
+    "name": "Statele Unite ale Americii",
+    "capital": [
+      "Washington, D.C."
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 9372610
+  },
+  {
+    "code": "VA",
+    "name": "Statul Cetății Vaticanului",
+    "capital": [
+      "Vatican"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 0.44
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "capital": [
+      "Khartoum"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 1886068
+  },
+  {
+    "code": "SS",
+    "name": "Sudanul de Sud",
+    "capital": [
+      "Juba"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 619745
+  },
+  {
+    "code": "SE",
+    "name": "Suedia",
+    "capital": [
+      "Stockholm"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 450295
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "capital": [
+      "Paramaribo"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 163820
+  },
+  {
+    "code": "TJ",
+    "name": "Tadjikistan",
+    "capital": [
+      "Dușanbe"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 143100
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "capital": [
+      "Taipei"
+    ],
+    "continent": "asia",
+    "note": "Statut internațional disputat.",
+    "area": 36193
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "capital": [
+      "Dodoma"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 945087
+  },
+  {
+    "code": "TH",
+    "name": "Thailanda",
+    "capital": [
+      "Bangkok"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 513120
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "capital": [
+      "Dili"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 14874
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "capital": [
+      "Lomé"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 56785
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "capital": [
+      "Nuku'alofa"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 747
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad și Tobago",
+    "capital": [
+      "Port of Spain"
+    ],
+    "continent": "north-america",
+    "note": "",
+    "area": 5130
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "capital": [
+      "Tunis"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 163610
+  },
+  {
+    "code": "TR",
+    "name": "Turcia",
+    "capital": [
+      "Ankara"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 783562
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "capital": [
+      "Așgabat"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 488100
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "capital": [
+      "Funafuti"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 26
+  },
+  {
+    "code": "NL",
+    "name": "Țările de Jos",
+    "capital": [
+      "Amsterdam"
+    ],
+    "continent": "europe",
+    "note": "Amsterdam este capitala; guvernul se află la Haga.",
+    "area": 41850
+  },
+  {
+    "code": "UA",
+    "name": "Ucraina",
+    "capital": [
+      "Kiev"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 603500
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "capital": [
+      "Kampala"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 241550
+  },
+  {
+    "code": "HU",
+    "name": "Ungaria",
+    "capital": [
+      "Budapesta"
+    ],
+    "continent": "europe",
+    "note": "",
+    "area": 93028
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "capital": [
+      "Montevideo"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 181034
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "capital": [
+      "Tașkent"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 447400
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "capital": [
+      "Port Vila"
+    ],
+    "continent": "oceania",
+    "note": "",
+    "area": 12189
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "capital": [
+      "Caracas"
+    ],
+    "continent": "south-america",
+    "note": "",
+    "area": 916445
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "capital": [
+      "Hanoi"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 331212
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "capital": [
+      "Sana'a"
+    ],
+    "continent": "asia",
+    "note": "",
+    "area": 527968
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "capital": [
+      "Lusaka"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 752612
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "capital": [
+      "Harare"
+    ],
+    "continent": "africa",
+    "note": "",
+    "area": 390757
+  }
+]
