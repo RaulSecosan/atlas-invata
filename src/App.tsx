@@ -1,3 +1,4 @@
+import { lazy, Suspense } from "react";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { HashRouter, Route, Routes } from "react-router-dom";
 import { Toaster as Sonner } from "@/components/ui/sonner";
@@ -12,6 +13,8 @@ import Geography from "./pages/Geography";
 import GeographyQuiz from "./pages/GeographyQuiz";
 import NotFound from "./pages/NotFound.tsx";
 
+const Space = lazy(() => import("./pages/Space"));
+
 const queryClient = new QueryClient();
 
 const App = () => (
@@ -24,6 +27,20 @@ const App = () => (
           <Routes>
             <Route element={<AtlasLayout />}>
               <Route path="/" element={<Index />} />
+              <Route
+                path="/spatiu"
+                element={
+                  <Suspense
+                    fallback={
+                      <main className="atlas-main">
+                        Se încarcă observatorul…
+                      </main>
+                    }
+                  >
+                    <Space />
+                  </Suspense>
+                }
+              />
               <Route path="/calendar" element={<Attendance />} />
               <Route path="/matematica" element={<Math />} />
               <Route path="/geografie" element={<Geography />} />

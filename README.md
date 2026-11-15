@@ -7,6 +7,7 @@ Aplicație educațională în limba română, cu design „Atlas modern”.
 - Exerciții de matematică pe operații și niveluri.
 - Explorarea a 7 continente și 197 de țări/state, cu steaguri și capitale.
 - Quizuri pentru capitale și continente, cu selecție de țări și feedback.
+- Observator **Spațiu**: explorator 3D (WebGL), 21 de lecții cu surse primare, laboratoare pentru orbite, tranzite și plante pe ISS, plus quiz. Modelul 3D este ilustrativ și se încarcă separat.
 - Istoric local al rezultatelor, păstrat în browserul dispozitivului.
 - Mod luminos / întunecat, cu preferință salvată.
 - Calendar de prezență, notițe pe zile și statistici de consecvență.

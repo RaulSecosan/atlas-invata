@@ -23,6 +23,7 @@ export default function AtlasLayout() {
             <NavLink to="/geografie/quiz">
               Quiz <ArrowUpRight size={14} />
             </NavLink>
+            <NavLink to="/spatiu">Spațiu</NavLink>
             <NavLink to="/calendar">Calendar</NavLink>
           </nav>
           <ThemeToggle />

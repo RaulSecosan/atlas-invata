@@ -1,3 +1,4 @@
+import "./space.css";
 import { Link } from "react-router-dom";
 import {
   ArrowRight,
@@ -6,6 +7,7 @@ import {
   Globe2,
   Calculator,
   Check,
+  Orbit,
 } from "lucide-react";
 import AtlasMap from "@/components/AtlasMap";
 export default function Index() {
@@ -30,7 +32,7 @@ export default function Index() {
             <span className="eyebrow">ÎNCEPE EXPLORAREA</span>
             <h2>Ce vrei să înveți?</h2>
           </div>
-          <p>Două materii. Nenumărate descoperiri.</p>
+          <p>Trei domenii. Nenumărate descoperiri.</p>
         </div>
         <div className="subject-grid">
           <Link to="/matematica" className="subject-card math-subject">
@@ -70,6 +72,24 @@ export default function Index() {
               </p>
               <span className="atlas-button">
                 Începe să explorezi <ArrowRight size={18} />
+              </span>
+            </div>
+          </Link>
+          <Link to="/spatiu" className="subject-card space-subject">
+            <div className="subject-art space-subject-art">
+              <span className="art-coordinate">03 / OBSERVATOR COSMIC</span>
+              <span className="space-card-orb" />
+              <Orbit size={170} strokeWidth={0.8} />
+            </div>
+            <div className="subject-body">
+              <span className="subject-kicker">DINCOLO DE PĂMÂNT</span>
+              <h2>Spațiu</h2>
+              <p>
+                Explorează planetele în 3D, experimentează într-o seră orbitală
+                și descoperă cum funcționează universul.
+              </p>
+              <span className="atlas-button">
+                Intră în observator <ArrowRight size={18} />
               </span>
             </div>
           </Link>
